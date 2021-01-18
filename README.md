@@ -3,4 +3,4 @@
 Using the Stacked architecture.
 
 Screenshots.
-<img src="screen/stacked_animals.jpg" height="400" alt="Screenshot"/>
+<img src="screen/stacked_animal.jpg" height="400" alt="Screenshot"/>
