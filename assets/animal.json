@@ -1,0 +1,29 @@
+{
+    "animals": [ 
+        {
+            "name" : "fish",
+            "size" : "2kg",
+            "timeadded" : "24342343423"
+        },
+        {
+            "name" : "lion",
+            "size" : "15kg",
+            "timeadded" : "24342343423"
+        },
+        {
+            "name" : "dog",
+            "size" : "25kg",
+            "timeadded" : "24342343423"
+        },
+        {
+            "name" : "elephant",
+            "size" : "85kg",
+            "timeadded" : "24342343423"
+        },
+        {
+            "name" : "house fly",
+            "size" : "0.5kg",
+            "timeadded" : "24342343423"
+        }
+    ]
+}
